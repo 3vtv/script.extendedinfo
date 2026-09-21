@@ -8,23 +8,22 @@ msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-10-26 17:05+0000\n"
-"PO-Revision-Date: 2017-02-20 13:55+0100\n"
-"Language-Team: Polish (Poland) (http://www.transifex.com/teamxbmc/kodi-main/language/pl_PL/)\n"
+"PO-Revision-Date: 2026-09-20 13:55+0100\n"
+"Language-Team: Polish\n"
+"Last-Translator: 3vtv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Last-Translator: Marcin W.\n"
-"X-Generator: Poedit 1.8.12\n"
 
 msgctxt "Addon Summary"
 msgid "ExtendedInfo Script"
-msgstr "Dodatek ExtendedInfo"
+msgstr "Skrypt ExtendedInfo"
 
 msgctxt "Addon Description"
 msgid "This script offers various possibilities to display online content inside skins. Used services are themoviedb.org, theaudiodb.org, Trakt.TV and a lot more. Can also be used for importing / exporting skin settings, adding additional fanart stuff to library and cooking eggs. Needs skin support for most functions."
-msgstr "Dodatek oferuje różne możliwości wyświetlania zawartości z Internetu. Korzysta z serwisów taki, jak TheMovieDb.org, TheAudioDb.org, Trakt i innych. Możesz zostać także wykorzystany do eksportowania i importowania ustawień skóry, dodawania dodatkowych fototapet do biblioteki i gotowania jajek. Większość jego funkcji wymaga dedykowanej obsługi ze strony skóry."
+msgstr "Dodatek oferuje możliwość wyświetlania treści z internetu. Korzysta z serwisów TheMovieDb.org, TheAudioDb.org, Trakt i innych. Może zostać także wykorzystany do eksportowania i importowania ustawień skóry, dodawania dodatkowych fototapet do biblioteki i gotowania jajek. Większość jego funkcji wymaga dedykowanej obsługi ze strony skóry."
 
 msgctxt "#32000"
 msgid "Million"
@@ -48,15 +47,15 @@ msgstr "Dostawca podpowiedzi"
 
 msgctxt "#32005"
 msgid "Windowed mode (for low-power platforms)"
-msgstr "Tryb okienkowy (dla platform małej mocy)"
+msgstr "Tryb okienkowy (dla platform niskiej mocy)"
 
 msgctxt "#32006"
 msgid "Use as thumbnail"
-msgstr "Używaj jako miniatury"
+msgstr "Ustaw jako poster"
 
 msgctxt "#32007"
 msgid "Use as fanart"
-msgstr "Używaj jako fototapety"
+msgstr "Ustaw jako fanart"
 
 msgctxt "#32008"
 msgid "Autocompletion"
@@ -65,7 +64,7 @@ msgstr "Podpowiedzi"
 #: \resources\lib\DialogTVShowInfo.py:101
 msgctxt "#32009"
 msgid "Show person information"
-msgstr "Pokazuj informacje osobowe"
+msgstr "Pokaż informacje o osobie"
 
 msgctxt "#32010"
 msgid "Filmography"
@@ -93,7 +92,7 @@ msgstr "Dorosły aktor"
 
 msgctxt "#32016"
 msgid "Also known as"
-msgstr "Znany także jako"
+msgstr "Znany też jako"
 
 msgctxt "#32017"
 msgid "Homepage"
@@ -114,7 +113,7 @@ msgstr "Wiek"
 
 msgctxt "#32021"
 msgid "In database"
-msgstr "W bazie danych"
+msgstr "W bibliotece"
 
 msgctxt "#32022"
 msgid "Clear filters"
@@ -134,7 +133,7 @@ msgstr "Lista odcinków"
 
 msgctxt "#32026"
 msgid "Related movie lists"
-msgstr "Lista powiązanych filmów"
+msgstr "Powiązane listy"
 
 msgctxt "#32027"
 msgid "Select person"
@@ -181,7 +180,7 @@ msgstr "Lista filmów"
 
 msgctxt "#32037"
 msgid "Overview"
-msgstr "Zarys"
+msgstr "Opis"
 
 #: /plugin.py:59
 msgctxt "#32038"
@@ -206,12 +205,12 @@ msgstr "Seriale popularne"
 #: /plugin.py:36 /plugin.py:45
 msgctxt "#32042"
 msgid "In-cinema movies"
-msgstr "Premiery kinowe"
+msgstr "Filmy aktualnie w kinach"
 
 #: /plugin.py:46 /plugin.py:39
 msgctxt "#32043"
 msgid "Upcoming movies"
-msgstr "Wkrótce w kinach"
+msgstr "Filmy wkrótce w kinach"
 
 #: /plugin.py:48 /plugin.py:128
 msgctxt "#32044"
@@ -236,7 +235,7 @@ msgstr "Filmy na czasie"
 #: /plugin.py:38
 msgctxt "#32048"
 msgid "Opening movies"
-msgstr "Otwieranie filmów"
+msgstr "Otwarcia filmów"
 
 #: /plugin.py:41
 msgctxt "#32049"
@@ -245,7 +244,7 @@ msgstr "Aktualne wydania DVD"
 
 msgctxt "#32050"
 msgid "Online information"
-msgstr "Informacje z Internetu"
+msgstr "Informacje on-line"
 
 msgctxt "#32051"
 msgid "Trailer"
@@ -263,12 +262,12 @@ msgstr "Premiery wydań DVD"
 #: /plugin.py:43
 msgctxt "#32054"
 msgid "Upcoming DVDs"
-msgstr "Wkrótce wydane na DVD"
+msgstr "Nadchodzące wydania DVD"
 
 #: /plugin.py:37 /plugin.py:133
 msgctxt "#32055"
 msgid "Box office"
-msgstr "Dochód kinowy"
+msgstr "Box office"
 
 #: /plugin.py:40
 msgctxt "#32056"
@@ -339,12 +338,12 @@ msgstr "Liczba wideo"
 #: \resources\lib\DialogYoutubeList.py:191
 msgctxt "#32069"
 msgid "Show similar videos"
-msgstr "Pokazuj podobne wideo"
+msgstr "Pokaż podobne wideo"
 
 #: /resources/lib/dialogs/DialogBaseInfo.py:149
 msgctxt "#32070"
 msgid "Show filmography"
-msgstr "Pokazuj filmografię"
+msgstr "Pokaż filmografię"
 
 #: \resources\lib\TheMovieDB.py:870
 msgctxt "#32071"
@@ -354,7 +353,7 @@ msgstr "Premiera"
 #: \resources\lib\TheMovieDB.py:871
 msgctxt "#32072"
 msgid "Post production"
-msgstr "W trakcie montażu"
+msgstr "W postprodukcji"
 
 #: \resources\lib\TheMovieDB.py:872
 msgctxt "#32073"
@@ -369,7 +368,7 @@ msgstr "Zakończony"
 #: \resources\lib\TheMovieDB.py:874
 msgctxt "#32075"
 msgid "Returning series"
-msgstr "Seriale powracające na antenę"
+msgstr "Serial powracający"
 
 #: \resources\lib\TheMovieDB.py:875
 msgctxt "#32076"
@@ -394,7 +393,7 @@ msgstr "Wymuszaj wygląd natywny"
 #: \resources\lib\dialogs\DialogYoutubeList.py:211
 msgctxt "#32081"
 msgid "More videos from"
-msgstr "Więcej materiałów wideo z "
+msgstr "Więcej wideo z "
 
 #: /resources/skins/Default/1080i/script-script.extendedinfo-DialogVideoInfo.xml:2925
 #: /resources/lib/dialogs/DialogVideoList.py
@@ -405,7 +404,7 @@ msgstr "głosów"
 #: /resources/lib/TheMovieDB.py:266
 msgctxt "#32083"
 msgid "Add movie to list"
-msgstr "Dodaj film do listy"
+msgstr "Dodaj do listy"
 
 #: /resources/settings.xml:7
 msgctxt "#32084"
@@ -415,7 +414,7 @@ msgstr "Używaj klasycznej klawiatury do wyszukiwania"
 #: /plugin.py:138
 msgctxt "#32085"
 msgid "Anticipated TV shows"
-msgstr "Seriale w planach"
+msgstr "Seriale oczekiwane"
 
 #: /plugin.py:139
 msgctxt "#32086"
@@ -440,7 +439,7 @@ msgstr "Filmy najczęściej odtwarzane"
 #: /plugin.py:130
 msgctxt "#32090"
 msgid "Most watched movies"
-msgstr "Filmy najczęściej odtwarzane"
+msgstr "Filmy najczęściej oglądane"
 
 #: /plugin.py:131
 msgctxt "#32091"
@@ -450,7 +449,7 @@ msgstr "Filmy najczęściej kolekcjonowane"
 #: /plugin.py:132
 msgctxt "#32092"
 msgid "Anticipated movies"
-msgstr "Zapowiedzi filmowe"
+msgstr "Filmy oczekiwane"
 
 #: /plugin.py:128
 msgctxt "#32093"
@@ -469,7 +468,7 @@ msgstr "Kobieta"
 
 msgctxt "#32099"
 msgid "Include porn stars"
-msgstr "Uwzględniaj gwiazdy"
+msgstr "Uwzględniaj gwiazdy porno"
 
 msgctxt "#32100"
 msgid "Get extrafanart"
@@ -477,7 +476,7 @@ msgstr "Pobierz dodatkowe fototapety"
 
 msgctxt "#32101"
 msgid "Get extrathumbs"
-msgstr "Pobierz dodatkowe miniatury"
+msgstr "Pobierz dodatkowe plakaty"
 
 msgctxt "#32102"
 msgid "Get tune"
@@ -489,7 +488,7 @@ msgstr "Zmień etykiety infomacji"
 
 msgctxt "#32104"
 msgid "Sort by"
-msgstr "Sortowanie"
+msgstr "Sortuj wg"
 
 msgctxt "#32105"
 msgid "Filters"
@@ -505,7 +504,7 @@ msgstr "Dodaj do listy"
 
 msgctxt "#32108"
 msgid "Revenue"
-msgstr "Dochód"
+msgstr "Przychody"
 
 msgctxt "#32109"
 msgid "Budget"
@@ -523,12 +522,12 @@ msgstr "Liczba głosów"
 
 msgctxt "#32112"
 msgid "Vote average"
-msgstr "Średnia głosów"
+msgstr "Średnia ocen"
 
 #: /resources/lib/dialogs/DialogBaseInfo.py:120
 msgctxt "#32113"
 msgid "Rate movie"
-msgstr "Oceń film"
+msgstr "Oceń"
 
 msgctxt "#32114"
 msgid "Keyword"
@@ -553,7 +552,7 @@ msgstr "Materiały na YouTube"
 
 msgctxt "#32119"
 msgid "Artwork"
-msgstr "Portret"
+msgstr "Plakat"
 
 msgctxt "#32120"
 msgid "Movie actor roles"
@@ -597,11 +596,11 @@ msgstr "Twoja ocena"
 
 msgctxt "#32130"
 msgid "Show lists"
-msgstr "Pokazuj listy"
+msgstr "Pokaż listy"
 
 msgctxt "#32131"
 msgid "Already rated"
-msgstr "Ocenione"
+msgstr "Już ocenione"
 
 msgctxt "#32132"
 msgid "Extras"
@@ -629,15 +628,15 @@ msgstr "Wprowadź nazwę listy"
 
 msgctxt "#32138"
 msgid "Delete movie list"
-msgstr "Usuń listę filmów"
+msgstr "Usuń listę"
 
 msgctxt "#32139"
 msgid "New movie list"
-msgstr "Nowa lista filmów"
+msgstr "Nowa lista"
 
 msgctxt "#32140"
 msgid "For all features enter your TMDB credentials in addon settings. "
-msgstr "W celu uzyskania pełnej funkcjonalności wymagane jest wprowadzenie, w ustawieniach dodatku, danych logowania do serwisu TMDB."
+msgstr "W celu uzyskania pełnej funkcjonalności wymagane jest wprowadzenie danych logowania do serwisu TMDB."
 
 msgctxt "#32141"
 msgid "This product uses the TMDb API but is not endorsed or certified by TMDb."
@@ -649,7 +648,7 @@ msgstr "Wytwórnie"
 
 msgctxt "#32143"
 msgid "Could not find item at MovieDB"
-msgstr "Pozycja nie została odnaleziona"
+msgstr "Pozycja nie została odnaleziona w TMDB"
 
 msgctxt "#32144"
 msgid "Starred TV shows"
@@ -665,11 +664,11 @@ msgstr "Wyszukaj '%s'"
 
 msgctxt "#32147"
 msgid "Show appearances"
-msgstr "Pokazuj występy"
+msgstr "Pokaż występy"
 
 msgctxt "#32148"
 msgid "Show information"
-msgstr "Pokazuj informacje"
+msgstr "Pokaż informacje"
 
 msgctxt "#32149"
 msgid "Upper limit"
@@ -686,7 +685,7 @@ msgstr "Wybierz opcję"
 
 msgctxt "#32152"
 msgid "Networks"
-msgstr "Sieci telewizyjne"
+msgstr "Sieci TV"
 
 msgctxt "#32153"
 msgid "Certification country"
@@ -714,7 +713,7 @@ msgstr "Dzisiaj urodziny!"
 
 msgctxt "#32159"
 msgid "Language for TheMovieDB requests"
-msgstr "Wyszukuj w języku"
+msgstr "Język wyszukiwania"
 
 msgctxt "#32160"
 msgid "TheMovieDB username"
@@ -730,11 +729,11 @@ msgstr "Uwzględniaj tytuły i aktorów filmów dla dorosłych"
 
 msgctxt "#32163"
 msgid "Open InfoDialog by default"
-msgstr "Otwieraj domyślnie okno dialogowe"
+msgstr "Otwieraj domyślnie InfoDialog"
 
 msgctxt "#32164"
 msgid "Delete cache"
-msgstr "Usuń bufor"
+msgstr "Wyczyść cache"
 
 msgctxt "#32165"
 msgid "Add to CouchPotato"
@@ -754,8 +753,36 @@ msgstr "Wydania"
 
 msgctxt "#32169"
 msgid "Rate TV show"
-msgstr "Oceń serial"
+msgstr "Oceń"
 
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
-msgstr "Dodaj do listy Trakt"
+msgstr "Dodaj do obserwowanych Trakt"
+
+msgctxt "#32171"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#32172"
+msgid "Youtube API Key"
+msgstr "Klucz API YouTube"
+
+msgctxt "#32173"
+msgid "TADB API Key"
+msgstr "Klucz API TADB"
+
+msgctxt "#32174"
+msgid "OMDb API Key"
+msgstr "Klucz API OMDb"
+
+msgctxt "#32184"
+msgid "ExtendedInfo Script"
+msgstr "ExtendedInfo Script"
+
+msgctxt "#32194"
+msgid "Last Air Date"
+msgstr "Ostatnia emisja"
+
+msgctxt "#32195"
+msgid "Next Air Date"
+msgstr "Następna emisja"
